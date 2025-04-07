@@ -12,9 +12,9 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # Pizza
 
-| pizza       | prezzo         | three |
+| pizza       | ingredienti         | prezzo|
 |:-------------|:------------------|:------|
-| margherita   | 8,50 | nice  |
+| margherita   | pomodoro,mozzarella | 7'00  |
 | out of stock | good and plenty   | nice  |
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
