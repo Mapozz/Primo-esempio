@@ -1,5 +1,5 @@
 ---
-layout: Pizza Time
+layout: default
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
@@ -20,7 +20,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 | ok           | good `zoute` drop | yumm  |
 
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Vieni a provare le nostre specialità.
 
 ## Tante pizze
 
