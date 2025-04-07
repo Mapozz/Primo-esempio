@@ -14,8 +14,8 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 | pizza       | ingredienti         | prezzo|
 |:-------------|:------------------|:------|
-| margherita   | pomodoro,mozzarella | 7'00  |
-| out of stock | good and plenty   | nice  |
+| margherita   | pomodoro,mozzarella | 7.00€  |
+| marinata      | pomodore , origano   | 6.50€  |
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
 
