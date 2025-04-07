@@ -14,7 +14,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 | pizza       | prezzo         | three |
 |:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
+| margherita   | 8,50 | nice  |
 | out of stock | good and plenty   | nice  |
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
