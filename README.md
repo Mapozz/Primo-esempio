@@ -1,3 +1,3 @@
 # Primo-esempio
 Prova di prova
-Ciao sto scribdebdo dalle note
+Ciao sto scrivendo dalle note, con aggiunte.
