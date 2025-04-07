@@ -13,9 +13,9 @@ There should be whitespace between paragraphs. We recommend including a README, 
 # Pizza menù
 
 | pizza       | ingredienti         | prezzo|
-|:-------------|:------------------|:------|
 | margherita   | pomodoro,mozzarella | 7.00€  |
 | marinata      | pomodore , origano   | 6.50€  |
+
 
 
 
